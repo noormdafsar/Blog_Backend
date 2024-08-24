@@ -1,3 +1,5 @@
-*To sart the server*
+**To sart the server**
+
 ***npm install***
+
 ***npm run dev***
